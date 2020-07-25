@@ -6,7 +6,7 @@ categories: fahrplan anreise
 ---
 # Ludiano, wir kommen!
 
-## Zug am Sonntag, 27. Juli 2020
+## Zug am Sonntag, 26. Juli 2020
 
 Monika findet: Möglichst wenig umsteigen!
 
