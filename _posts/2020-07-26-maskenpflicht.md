@@ -7,7 +7,7 @@ categories: maskenpflicht covid-19 sbb
 # Einhaltung der Maskenpflicht
 
 Heute fahre ich zum ersten Mal Zug nach der Einführung der Maskenpflicht in den öffentichen Verkehrsmittel.
-Mich stört die Maske micht trotz Bart. 
+Mich stört die Maske nicht trotz Bart. 
 Klar, es ist ein wenig warm, aber es beisst mich nicht.
 
 Die Disziplin ist sehr gut.
