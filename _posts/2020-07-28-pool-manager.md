@@ -31,6 +31,7 @@ Damit kann Luft im System abgelassen werden.
 Falls der Filter zu stark verdreckt ist, steigt der Druck auf über 1 Bar.
 Dann muss er rückgespült werden.
 Dazu muss das _Mehrwegventil_ in der Mitte umgestellt werden.
+Ausserdem muss der Hahn _Rückspülen_ geöffnet sein.
 Das Wasser fliesst dann in die andere Richtung und spült den Schmutz in den Ablauf.
 
 ## Anleitungen
@@ -59,7 +60,7 @@ Betriebsanleitung für MERMAID-Filter
 
 ## Lösung des Problems
 
-Falls das Ventil _Zur Düse_ geschlossen wurde, stieg der Druck von praktisch 0 Bar auf ca. 0.3 Bar an.
+Falls der Hahn _Zur Düse_ geschlossen wurde, stieg der Druck von praktisch 0 Bar auf ca. 0.3 Bar an.
 Dies zeigte an, dass die Pumpe doch funktioniert.
 
 Nachdem der _Vorfilter_ geöffnet und der Siebkorb entfernt war, zeigte sich, dass sich dort vor dem Motor der Pumpe Sand, Blätter und anderes angesammelt hat.
