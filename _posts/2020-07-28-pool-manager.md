@@ -66,3 +66,9 @@ Nachdem der _Vorfilter_ geöffnet und der Siebkorb entfernt war, zeigte sich, da
 
 Als dies entfernt war, funktionierte die Pumpe wieder tadellos.
 Es konnte nun auch wieder der Schmutz, der sich am Boden des Beckens angesammelt hat, mit dem _Staubsauger_ entfernt werden.
+
+## Hinweis zum Staubsauger
+
+Bei Verwendung des _Staubsaugers_ wird empfohlen, den Hahn _Von Bodenablauf_ zu schliessen und nur den Hahn _Von Skimmer_ offen zu halten.
+Dies erhöht den Sog und führt zu einem besseren Ergebniss.
+Danach sollte der Hahn _Von Bodenablauf_ wieder geöffnet werden.
