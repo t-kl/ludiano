@@ -17,9 +17,10 @@ Falls du bereits ein Benutzerkonto hast, meldest du dich dort an.
 
 # Repository
 
-Unter "Your old repository’s clone URL" gibst du `https://github.com/t-kl/jekyll-blog-template` ein.
-Du kannst einen "Repository Name" dafür wählen.
+Auf [Jekyll Blog Template](https://github.com/t-kl/jekyll-blog-template) kannst du mit [Use this template] ein neues _Repository_ für einen _Jekyll_ Blog erstellen.
+Dafür kannst du einen eigenen "Repository Name" wählen.
 Dieser Name wird dann in der _URL_ erscheinen.
+Siehe auch: [Creating a repository from a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
 
 ## Privacy
 Du musst dein _Repository_ auf "Public" belassen.
